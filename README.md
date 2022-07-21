@@ -12,7 +12,7 @@ Desde pequeño tengo curiosidad e interés en entender el funcionamiento de las 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidroses02&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
-## 🚀 Sobre mí
+## 🚀 Tecnologías
 
 - Lenguajes de programación : <br />
 
