@@ -24,6 +24,7 @@ Desde pequeño tengo curiosidad e interés en entender el funcionamiento de las 
   ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
   
 - IDE's, Framework's y herramientas : <br />
+
  ![Django](https://img.shields.io/badge/Django-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
  ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
  ![Simfony](https://img.shields.io/badge/Simfony-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
