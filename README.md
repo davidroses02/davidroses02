@@ -1,8 +1,16 @@
 ### ¡Hola, soy David!
 
-Soy estudiante en el de Grado Superior de Desarrollo Web en el [IES Gran Capitán](https://informatica.iesgrancapitan.org/c-f-g-s-desarrollo-de-aplicaciones-web/), también me gusta dedicar mi tiempo libre a estudiar seguridad informática, frameworks y otras herramientas del mundo de la programación.
+Soy estudiante en el de Grado Superior de Desarrollo Web en el [IES Gran Capitán](https://informatica.iesgrancapitan.org/c-f-g-s-desarrollo-de-aplicaciones-web/), y en [42 Málaga Fundación Teléfonica](https://www.42malaga.com/). Me gusta dedicar mi tiempo libre a estudiar seguridad informática, frameworks y otras herramientas del mundo de la programación.
 
 Desde pequeño tengo curiosidad e interés en entender el funcionamiento de las cosas, ese camino me ha llevado a aprender cómo funcionan las TIC.
+
+![Contador](https://komarev.com/ghpvc/?username=davidroses02)
+
+## 👀 Estadísticas en 42
+
+[![drosas-a's 42 stats](https://badge42.vercel.app/api/v2/cl8leaypm00060hmrftk1o47p/stats?cursusId=9&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)
+
+[![drosas-a's 42 stats](https://badge42.vercel.app/api/v2/cl8leaypm00060hmrftk1o47p/stats?cursusId=21&coalitionId=275)](https://github.com/JaeSeoKim/badge42)
 
 ## ⚡ Estadísticas 
 
