@@ -1,6 +1,6 @@
 ### ¡Hola, soy David!
 
-Soy estudiante en el Grado Superior de Desarrollo Web del [IES Gran Capitán](https://informatica.iesgrancapitan.org/c-f-g-s-desarrollo-de-aplicaciones-web/), y en [42 Málaga Fundación Teléfonica](https://www.42malaga.com/). Me gusta dedicar mi tiempo libre a estudiar seguridad informática, frameworks y otras herramientas del mundo de la programación.
+He cursado mis estudios en el Grado Superior de Desarrollo Web del [IES Gran Capitán](https://informatica.iesgrancapitan.org/c-f-g-s-desarrollo-de-aplicaciones-web/), y en [42 Málaga Fundación Teléfonica](https://www.42malaga.com/). Me gusta dedicar mi tiempo libre a estudiar seguridad informática, frameworks y otras herramientas del mundo de la programación.
 
 Desde pequeño tengo curiosidad e interés en entender el funcionamiento de las cosas, ese camino me ha llevado a aprender cómo funcionan las TIC.
 
